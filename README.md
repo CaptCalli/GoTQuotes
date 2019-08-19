@@ -5,7 +5,7 @@ GoTQuotes stands for Game of Thrones Quotes.
 # Description
 
 Game of Thrones Quotes is a simple webpage displaying various Game of Thrones quotes by specific characters. 
-[GoTQuotes Website](https://kernscode.github.io/GoTQuotes/)
+[GoTQuotes Website](https://kittykerns.github.io/GoTQuotes/)
 
 # Usage
 
