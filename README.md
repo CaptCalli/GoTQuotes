@@ -17,7 +17,7 @@ If the quote does not seem to change, this simply means that the same quote was 
 
 # Support
 
-For support, feel free to contact me on Twitter: @KernsCode 
+For support, feel free to contact me on Twitter: @_KittyKerns 
 
 # License
 
